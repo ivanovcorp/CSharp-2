@@ -1,0 +1,7 @@
+D:\Programming\Telerik-Software-Academy-master\Telerik-Software-Academy-master\Modul I\02. C# - Part II\01. Arrays-Homework\01. ArrayWith20Numbers\bin\Debug\_01.ArrayWith20Numbers.exe.config
+D:\Programming\Telerik-Software-Academy-master\Telerik-Software-Academy-master\Modul I\02. C# - Part II\01. Arrays-Homework\01. ArrayWith20Numbers\bin\Debug\_01.ArrayWith20Numbers.exe
+D:\Programming\Telerik-Software-Academy-master\Telerik-Software-Academy-master\Modul I\02. C# - Part II\01. Arrays-Homework\01. ArrayWith20Numbers\bin\Debug\_01.ArrayWith20Numbers.pdb
+D:\Programming\Telerik-Software-Academy-master\Telerik-Software-Academy-master\Modul I\02. C# - Part II\01. Arrays-Homework\01. ArrayWith20Numbers\obj\Debug\01. ArrayWith20Numbers.csprojResolveAssemblyReference.cache
+D:\Programming\Telerik-Software-Academy-master\Telerik-Software-Academy-master\Modul I\02. C# - Part II\01. Arrays-Homework\01. ArrayWith20Numbers\obj\Debug\01. ArrayWith20Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Telerik-Software-Academy-master\Telerik-Software-Academy-master\Modul I\02. C# - Part II\01. Arrays-Homework\01. ArrayWith20Numbers\obj\Debug\_01.ArrayWith20Numbers.exe
+D:\Programming\Telerik-Software-Academy-master\Telerik-Software-Academy-master\Modul I\02. C# - Part II\01. Arrays-Homework\01. ArrayWith20Numbers\obj\Debug\_01.ArrayWith20Numbers.pdb
